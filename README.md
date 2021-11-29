@@ -1,1 +1,1 @@
-# JavaScript app using Gsap
+# Virtual Internship Certification
